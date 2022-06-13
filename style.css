@@ -1,4 +1,6 @@
 @font-face {
-    font-family: RobotoNuosu SIL;
-     src: url("assets/fonts/NuosuSIL-Regular.ttf");
-   }
+    font-family: 'Joan', serif;
+    font-family: 'Open Sans', sans-serif;
+    src: url("assets/fonts/NuosuSIL-Regular.ttf");
+    font-weight: 300;
+}
