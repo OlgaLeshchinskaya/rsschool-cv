@@ -161,3 +161,18 @@ main {
     width: 140px;
     height: 2px;
 }
+
+.image_rss{
+	float: right;	
+	margin-right: 20px;	
+	text-align: center;
+}
+
+.image_github{
+	text-align: center;
+	float: left;
+	margin-left: 20px;
+	text-align: center;
+	text-decoration: none;
+	color: #FFFFFF;
+}
